@@ -4,4 +4,4 @@ Reading [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](htt
 
 Code, notes and exercises in Jupyter Notebooks. 
 
-The original companion notebook by the author is [here](https://github.com/ageron/handson-ml2).
+The original companion notebooks by the author are [here](https://github.com/ageron/handson-ml2).
